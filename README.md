@@ -233,21 +233,22 @@ _Data Scientist & Power BI Developer | Tegucigalpa, Honduras_
 
 ---
 
-### **2. Edgar García**
+### **2. Willson Rodolfo Aguilar Revolorio**
 
-_Equipo 03-D · UNIR_
+_Data Scientist & Analyst / Ciudad Guatemala, Guatemala_  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usuario-autor-2)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:correo-autor-2@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willson-rodolfo-aguilar-revolorio-ba265b22b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willsonaguilarevoloriosr2@gmail.com)
 
 ---
 
-### **3. Wilson Aguilar**
+### **3. Edgar Alain García Ramírez**
 
-_Equipo 03-D · UNIR_
+_Business Intelligence Analyst / Ciudad de México, México_  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usuario-autor-3)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:correo-autor-3@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-alain-garcia-ramirez/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mygadin@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/525523233784)
 
 ---
 
